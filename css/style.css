@@ -19,8 +19,10 @@ body {
 
 .masthead-intro {
     margin-bottom: 0.1em;
-    font-size: 2em;
-    color: #ffffff;
+    font-size: 6rem;
+    color: black;
+    font-weight: bold; 
+    padding-bottom: 5rem;
 }
 
 .masthead-heading {
